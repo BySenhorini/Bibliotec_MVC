@@ -166,3 +166,4 @@ C:\Users\56805860881\Desktop\BibliotecMVC_\Bibliotec\bin\Debug\net8.0\runtimes\b
 C:\Users\56805860881\Desktop\BibliotecMVC_\Bibliotec\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\56805860881\Desktop\BibliotecMVC_\Bibliotec\obj\Debug\net8.0\Bibliotec.csproj.AssemblyReference.cache
 C:\Users\56805860881\Desktop\BibliotecMVC_\Bibliotec\obj\Debug\net8.0\Bibliotec.csproj.Up2Date
+C:\Users\56805860881\Desktop\BibliotecMVC_\Bibliotec\obj\Debug\net8.0\Bibliotec.sourcelink.json
